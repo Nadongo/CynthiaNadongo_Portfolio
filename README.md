@@ -18,7 +18,7 @@ I am a **Systems Administrator**, **Web Developer (Python/Django)**, and **Block
 
 ## How to View
 You can view my live portfolio here:  
-[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+[ https://nadongo.github.io/CynthiaNadongo_Portfolio/]
 
 ## Contact
 Feel free to reach out to me via the contact form on the site or connect through my social links.
